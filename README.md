@@ -12,7 +12,7 @@
 ### 🤔 About
 -  **Working :**  Web Development :computer: : 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
--  **Hobbies :** Photography :camera:
+-  **Hobbies :** Jiu Jitsu 🥋 | Photography :camera:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
