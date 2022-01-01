@@ -7,7 +7,9 @@
 <a href="https://twitter.com/talhaabbasi091"><img alt="Twitter" src="https://img.shields.io/badge/-talhaabbasi091-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/talhaabbasi091"></a>
 <a href="https://dev.to/talhaabbasi"><img alt="Dev Community" src="https://img.shields.io/badge/-talhaabbasi-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/talhaabbasi"></a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=talhaabbasi&style=flat&color=blue" alt=eshban/> 
+</p>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 -  **Working :**  Web Development :computer: : 
