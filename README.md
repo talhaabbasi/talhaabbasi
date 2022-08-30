@@ -12,8 +12,3 @@
   <br/></br>
   <img src="https://komarev.com/ghpvc/?username=talhaabbasi&style=flat&color=blue" alt=talhaabbasi/> 
 </p>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 📊 Profile stats
-
-[![talhaabbasi's github stats](https://github-readme-stats.vercel.app/api?username=talhaabbasi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/talhaabbasi/github-readme-stats)
