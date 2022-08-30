@@ -8,7 +8,7 @@
 <a href="https://dev.to/talhaabbasi"><img alt="Dev Community" src="https://img.shields.io/badge/-talhaabbasi-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/talhaabbasi"></a>
 </p>
 <p align="center">
-  Portfolio: <a href="https://wwww.talhaabbasi.com">talhaabbasi.com</a> 
+  Portfolio: <a href="https://www.talhaabbasi.com">talhaabbasi.com</a> 
   <br/></br>
   <img src="https://komarev.com/ghpvc/?username=talhaabbasi&style=flat&color=blue" alt=talhaabbasi/> 
 </p>
